@@ -1,0 +1,55 @@
+body{
+	background-color: #D2F8F3;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 5px;
+	margin-left: 0px;
+	border:none;
+}
+
+.Titulares {
+	text-align: center;
+	background-color: #267E8D;
+	border-style:none;
+	padding:1px;
+}
+
+.titulouno {
+	border:none;
+	margin-left:200px;
+	margin-right:200px;
+	background-color:#D5BEBE;
+	height:500px;
+}
+
+#titulograndoteuno {
+	background-color: #267E8D;
+	padding-left:250px;
+}
+
+.PrimerAvion {
+	border:none;
+	background-color:#E4E4E4;
+	margin-left:50px;
+	margin-right:50px;
+}
+
+#nomuno {
+	background-color:#267E8D;
+	padding-left:10px;
+}
+#txtuno {
+	float:left;
+	padding-left:10px;
+	
+}
+#imgaF5 {
+	height:200px;
+	width:350px;
+	float:right;
+	padding-right:10px;
+}
+
+#txtdos {
+	padding-left:5px;
+}
